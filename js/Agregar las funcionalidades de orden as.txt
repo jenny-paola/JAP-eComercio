@@ -1,0 +1,12 @@
+ Agregar las funcionalidades de orden ascendente y descendente en función del precio 
+y descendente en función de la relevancia.
+- ascendente 
+    - obtengo el array con la informacion que necesito
+    - ordenarlo de forma ascendente por precio
+- descendente en función del precio
+    - obtengo el array con la informacion que necesito
+    - ordenarlo de forma descendente por precio
+    
+- descendente en función de la relevancia.
+    - obtengo el array con la informacion
+    - ordenarlo descendente por relevancia
